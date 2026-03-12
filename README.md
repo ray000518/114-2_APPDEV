@@ -81,7 +81,7 @@
 
 ## 期末專題
 本課程期末專題將緊扣「**海事與海洋**」領域，請各組發揮創意，開發具備實際應用價值的 Android App。建議結合 App 特有硬體功能（相機、GPS）與網路資料串接。
-詳細專題規範與公開資料集（如：政府資料開放平臺、中央氣象署、MarineTraffic 等）請見專題模板 Repo。
+詳細專題規範與公開資料集（如：政府資料開放平臺、中央氣象署、MarineTraffic 等）請見專題模板 [Repo](https://github.com/pychang-ai/114-2_APPDEV-project-template-/tree/main)。
 
 ## 課程工具與教材對應表
 | 工具/平台 | 導入週次 | 使用範圍 |
